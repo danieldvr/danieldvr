@@ -7,8 +7,8 @@ Apaixonado por tecnologia, tenho me dedicado ao desenvolvimento de projetos web,
 
 <div>
   <a href="https://github.com/danieldvr">
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=danieldvr&show_icons=true&theme=dark"/>
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=danieldvr&layout=compact&theme=dark"/>
+  <img height="180em" width="48%" src= "https://github-readme-stats.vercel.app/api?username=danieldvr&show_icons=true&theme=dark"/>
+  <img height="180em" width="48%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=danieldvr&layout=compact&theme=dark"/>
 </div>
     
 <div style="display: inline_flex"><br>

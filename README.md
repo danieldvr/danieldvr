@@ -23,7 +23,7 @@ Possuo experiência no desenvolvimento de aplicações web Full Stack, atuando e
 
 ### 🗄️ Bancos de Dados & Cloud
 
-- **PostgreSQL, MySQL, SQL Server, Oracle e SQLite** → modelagem, consultas e persistência de dados relacionais
+- **PostgreSQL, MySQL, SQL Server e SQLite** → modelagem, consultas e persistência de dados relacionais
 - **MongoDB** → armazenamento e gerenciamento de dados NoSQL
 - **AWS e Microsoft Azure** → fundamentos de computação em nuvem
 - **Render, Vercel e Heroku** → deploy e hospedagem de aplicações web

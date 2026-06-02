@@ -18,7 +18,6 @@ Possuo experiência no desenvolvimento de aplicações web Full Stack, atuando e
 
 - **Node.js e Express.js** → desenvolvimento de APIs REST e aplicações Back-end
 - **React** → construção de interfaces modernas e responsivas
-- **React Native** → desenvolvimento de aplicações mobile multiplataforma
 - **Flask, Django e FastAPI** → desenvolvimento de aplicações web e APIs em Python
 - **HTML5, CSS3 e Bootstrap** → criação de interfaces web responsivas e acessíveis
 

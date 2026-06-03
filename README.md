@@ -62,7 +62,7 @@ Sistema de gerenciamento de estoque desenvolvido para simular operações corpor
 
 Sistema de classificação automática de e-mails desenvolvido com Python, aplicando processamento de dados, Inteligência Artificial e automação de fluxos para categorização inteligente de mensagens.
 
-🔗 https://github.com/danieldvr/email_classifier_render_ready_FIXED_for_Render
+🔗 https://github.com/danieldvr/email_classifier_render_ready.git
 
 ---
 
@@ -103,7 +103,7 @@ SENAC
 📱 **Telefone / WhatsApp:** +55 (27) 98841-8022
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/daniel-vieira-rodrigues-b11146232
+https://www.linkedin.com/in/daniel-vieira-rodrigues
 
 🐙 **GitHub:**  
 https://github.com/danieldvr
@@ -119,7 +119,7 @@ Rio de Janeiro - RJ, Brasil
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/daniel-vieira-rodrigues-b11146232">
+<a href="https://www.linkedin.com/in/daniel-vieira-rodrigues">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

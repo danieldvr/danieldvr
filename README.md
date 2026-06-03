@@ -102,14 +102,11 @@ SENAC
 
 📱 **Telefone / WhatsApp:** +55 (27) 98841-8022
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/daniel-vieira-rodrigues
+💼 **LinkedIn:** https://www.linkedin.com/in/daniel-vieira-rodrigues
 
-🐙 **GitHub:**  
-https://github.com/danieldvr
+🐙 **GitHub:** https://github.com/danieldvr
 
-📍 **Localização:**  
-Rio de Janeiro - RJ, Brasil
+📍 **Localização:** Rio de Janeiro - RJ, Brasil
 
 ---
 

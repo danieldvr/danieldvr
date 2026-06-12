@@ -18,7 +18,7 @@ Possuo experiência no desenvolvimento de aplicações web Full Stack, atuando e
 
 - **Node.js e Express.js** → desenvolvimento de APIs REST e aplicações Back-end
 - **React** → construção de interfaces modernas e responsivas
-- **Flask, Django e FastAPI** → desenvolvimento de aplicações web e APIs em Python
+- **Flask e FastAPI** → desenvolvimento de aplicações web e APIs em Python
 - **HTML5, CSS3 e Bootstrap** → criação de interfaces web responsivas e acessíveis
 
 ### 🗄️ Bancos de Dados & Cloud
